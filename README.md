@@ -103,6 +103,6 @@ UI/UX inspired by real-world application
 
 Rahul Saini
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Rahxl-saini
 
 LinkedIn: https://linkedin.com/in/your-profile

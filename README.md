@@ -97,3 +97,10 @@ REST API design
 Authentication & authorization
 Database design (MongoDB)
 UI/UX inspired by real-world application
+
+# 👨‍💻 Author
+
+Rahul Saini
+
+GitHub: https://github.com/your-username
+LinkedIn: https://linkedin.com/in/your-profile

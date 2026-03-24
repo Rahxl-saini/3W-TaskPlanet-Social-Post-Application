@@ -86,6 +86,7 @@ POST /api/posts/:id/comment
 
 # 🌐 Deployment Links
 Frontend: [Live Link Here]
+
 Backend API: [API Link Here]
 
 # 🎯 Assignment Objective
@@ -103,4 +104,5 @@ UI/UX inspired by real-world application
 Rahul Saini
 
 GitHub: https://github.com/your-username
+
 LinkedIn: https://linkedin.com/in/your-profile

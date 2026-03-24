@@ -46,7 +46,7 @@ const CreatePost = ({ onNewPost }) => {
 
       // Send the post to the backend
       const { data } = await axios.post(
-        'https://threew-taskplanet-social-post.com/api/posts',
+        'https://threew-taskplanet.onrender.com/api/posts',
         newPost,
         config
       );

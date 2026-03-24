@@ -49,7 +49,7 @@ export const AuthProvider = ({ children }) => {
       dispatch({ type: 'LOGIN_REQUEST' });
 
       const res = await axios.post(
-        'https://threew-taskplanet.onrender.com/api/users/login',
+        'https://threew-taskplanet-social-post.com/api/users/login',
         { email, password }
       );
 
@@ -69,7 +69,7 @@ export const AuthProvider = ({ children }) => {
       dispatch({ type: 'REGISTER_REQUEST' });
 
       const res = await axios.post(
-        'https://threew-taskplanet.onrender.com/api/users/register',
+        'https://threew-taskplanet-social-post.com/api/users/register',
         { username, email, password }
       );
 

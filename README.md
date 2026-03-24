@@ -85,9 +85,7 @@ PUT /api/posts/:id/like
 POST /api/posts/:id/comment
 
 # 🌐 Deployment Links
-Frontend: [Live Link Here]
-
-Backend API: [API Link Here]
+https://threew-taskplanet-social-post-wfvy.onrender.com
 
 # 🎯 Assignment Objective
 
